@@ -64,7 +64,7 @@ This project assumes `argparse.hpp` is available. If somehow you dont have it, y
 
 1.  Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Ilyessin12/JaWaraT.git
     cd JaWaraT
     ```
 2.  Create a build directory:
@@ -137,6 +137,9 @@ The executable `jawarat` (or `jawarat.exe` on Windows) will be in the `build` di
     ```bash
     ./jawarat "token" -w common_passwords.txt -b "aA1!" --max-len 4
     ```
+
+## Tips
+You can add this project into your system env path variable so that you could just type "jawarat" anywhere
 
 ## License
 
