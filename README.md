@@ -94,6 +94,11 @@ The executable `jawarat` (or `jawarat.exe` on Windows) will be in the `build` di
 ./jawarat <jwt_token> [options]
 ```
 
+or if you have added it in your system env path :
+```
+jawarat <jwt_token> [options]
+```
+
 **Options:**
 
 *   `jwt`: (Required) The target JWT token to crack.
