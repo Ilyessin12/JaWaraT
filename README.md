@@ -109,6 +109,7 @@ jawarat <jwt_token> [options]
 *   `-t, --threads <num>`: Number of threads for brute force (default: 4).
 *   `--alg-none`: Check for alg:none vulnerability.
 *   `--info`: Display JWT header and payload information.
+*   `--version`: Display the version of this program (1.0 for now)
 
 **Examples:**
 
