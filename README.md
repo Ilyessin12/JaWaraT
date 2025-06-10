@@ -1,4 +1,4 @@
-# JawaRaT
+# JaWaraT
 
 A cross-platform C++ tool for auditing and cracking HS256 secret keys of JSON Web Tokens (JWTs).
 
